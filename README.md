@@ -11,8 +11,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## My Stats as Developer
+<div style="display:inline-flex;">
+
+<div style="margin-right:5px;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvicgomez&count_private=true&show_icons=true&bg_color=202124&title_color=D12A1E&icon_color=FAD127&text_color=ffffff)](https://melvicgomez.com)
+</div>
+
 [![Melvic Gomez's GitHub](https://github-readme-stats.vercel.app/api?username=melvicgomez&count_private=true&show_icons=true&bg_color=202124&title_color=D12A1E&icon_color=FAD127&text_color=ffffff)](https://github.com/melvicgomez)
+<div>
 
 
 <!--START_SECTION:waka-->
