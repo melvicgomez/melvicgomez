@@ -16,3 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![Melvic Gomez's GitHub](https://github-readme-stats.vercel.app/api?username=melvicgomez&count_private=true&show_icons=true&bg_color=202124&title_color=D12A1E&icon_color=FAD127&text_color=ffffff)](https://github.com/melvicgomez)
 
 [![Wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=melvicgomez&show_icons=true&bg_color=202124&title_color=D12A1E&icon_color=FAD127&text_color=ffffff)](https://wakatime.com/@melvicgomez)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
