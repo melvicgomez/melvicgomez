@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Melvic Gomez based from the Republic of the Philippines 🇵🇭
 - 👀 I’m interested in **software development** 👨‍💻, **cycling** 🚴‍♂️, **books** 📚 and **coffee** ☕. 
 - 🌱 I’m currently learning **FeathersJS**, **ExpressJS** and **Jest**.
-- 💞️ I’m looking to collaborate on building software for companies to grow their business.
+- 💞️ I’m looking to collaborate on building software for companies to grow their business and expand my knowledge.
 - 📫 How to reach me <connect@melvicgomez.com>
 - 📄 Checkout my blogs [here](https://melvicgomez.com/blogs).
 
