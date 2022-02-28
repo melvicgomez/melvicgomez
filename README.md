@@ -21,10 +21,6 @@
 ## Wakatime
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2033%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 12 Contributions in the Year 2022
@@ -37,6 +33,9 @@
  > 
 > 🔑 8 Private Repositories  
  > 
+ 
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2033%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
