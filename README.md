@@ -21,13 +21,13 @@
 ## Wakatime
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C146%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-198-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-212-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 12 Contributions in the Year 2022
+> 🏆 19 Contributions in the Year 2022
  > 
 > 📦 93.6 kB Used in GitHub's Storage 
  > 
@@ -66,11 +66,11 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               24 hrs 30 mins      ██████████████████████░░░   89.91% 
-Text                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-JSON                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
-Other                    44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+TypeScript               28 hrs 22 mins      ██████████████████████░░░   88.7% 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
+Text                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 ```
 
@@ -89,7 +89,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/02/2022 08:16:03 UTC
+ Last Updated on 04/03/2022 15:19:50 UTC
 <!--END_SECTION:waka-->
 
  <!---
