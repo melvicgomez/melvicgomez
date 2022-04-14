@@ -21,75 +21,8 @@
 ## Wakatime
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 19 Contributions in the Year 2022
- > 
-> 📦 93.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.73% 
-🌆 Daytime    128 commits    █████████████████░░░░░░░░   70.33% 
-🌃 Evening    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       52 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Tuesday      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Wednesday    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Thursday     44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.18% 
-Friday       40 commits     █████░░░░░░░░░░░░░░░░░░░░   21.98% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-TypeScript               28 hrs 2 mins       ███████████████████████░░   93.49% 
-Bash                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
-JSON                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
-Terraform                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               8 repos             ████████████████░░░░░░░░░   66.67% 
-PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
-
-
- Last Updated on 13/04/2022 08:17:53 UTC
 <!--END_SECTION:waka-->
-
+ 
  <!---
 melvicgomez/melvicgomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
