@@ -21,7 +21,9 @@
 ## Wakatime
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,8 +66,9 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        █████████████████████████   99.91% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+JavaScript               1 hr 5 mins         ████████████████████████░   98.35% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
 ```
 
@@ -84,7 +87,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 08:17:43 UTC
+ Last Updated on 08/05/2022 08:17:12 UTC
 <!--END_SECTION:waka-->
  
  <!---
