@@ -66,7 +66,7 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -85,7 +85,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 08:17:38 UTC
+ Last Updated on 19/05/2022 08:18:42 UTC
 <!--END_SECTION:waka-->
  
  <!---
