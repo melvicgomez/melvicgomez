@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,7 +66,7 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -85,7 +85,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 08:18:42 UTC
+ Last Updated on 20/05/2022 08:18:36 UTC
 <!--END_SECTION:waka-->
  
  <!---
