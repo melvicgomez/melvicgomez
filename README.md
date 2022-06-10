@@ -21,9 +21,9 @@
 ## Wakatime
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C347%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,10 +66,10 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               15 hrs 6 mins       ██████████████████████░░░   90.61% 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.37% 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+TypeScript               15 hrs 10 mins      ███████████████████████░░   92.05% 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 ```
@@ -89,7 +89,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 08:19:46 UTC
+ Last Updated on 10/06/2022 08:17:05 UTC
 <!--END_SECTION:waka-->
  
  <!---
