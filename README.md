@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,11 +66,7 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 1 min          ████████████░░░░░░░░░░░░░   50.24% 
-JavaScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   26.42% 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -90,7 +86,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 08:24:20 UTC
+ Last Updated on 22/06/2022 08:20:25 UTC
 <!--END_SECTION:waka-->
  
  <!---
