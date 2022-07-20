@@ -66,11 +66,7 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               5 hrs 13 mins       ███████████████████░░░░░░   78.31% 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
-SCSS                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.13% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+No Activity Tracked This Week
 
 ```
 
@@ -90,7 +86,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2022 08:17:39 UTC
+ Last Updated on 20/07/2022 08:19:28 UTC
 <!--END_SECTION:waka-->
  
  <!---
