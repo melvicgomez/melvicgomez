@@ -21,7 +21,7 @@
 ## Wakatime
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,6 +37,39 @@
  > 
 > 🔑 8 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    25 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+🌆 Daytime    65 commits     ███████████████░░░░░░░░░░   61.9% 
+🌃 Evening    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       31 commits     ███████░░░░░░░░░░░░░░░░░░   29.52% 
+Tuesday      19 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.1% 
+Wednesday    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Thursday     34 commits     ████████░░░░░░░░░░░░░░░░░   32.38% 
+Friday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -53,7 +86,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/melvicgomez/melvicgomez/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 08:17:07 UTC
+ Last Updated on 05/09/2022 08:18:15 UTC
 <!--END_SECTION:waka-->
  
  <!---
