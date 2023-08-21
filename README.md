@@ -1,3 +1,5 @@
+[![Waka Readme](https://github.com/melvicgomez/melvicgomez/actions/workflows/main.yml/badge.svg)](https://github.com/melvicgomez/melvicgomez/actions/workflows/main.yml)
+
 ## About Me
 - 👋 Hi, I’m Melvic Gomez based from the Republic of the Philippines 🇵🇭
 - 👀 I’m interested in **software development** 👨‍💻, **cycling** 🚴‍♂️, **books** 📚 and **coffee** ☕. 
