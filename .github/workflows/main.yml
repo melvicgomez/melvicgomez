@@ -14,6 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          BRANCH: "melvicgomez/melvicgomez@master"
+          BRANCH: "main"
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           STATS_RANGE: "all_time"
