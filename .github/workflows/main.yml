@@ -4,6 +4,10 @@ on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "1 0 * * *"
+  workflow_dispatch:
+    workflows: [Manually update the profile's README WakaTime]
+    branches: [master]
+
 
 jobs:
   update-readme:
@@ -14,6 +18,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          BRANCH: "main"
+          BRANCH: "master"
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           STATS_RANGE: "all_time"
