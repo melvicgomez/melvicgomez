@@ -1,13 +1,12 @@
 [![Waka Readme](https://github.com/melvicgomez/melvicgomez/actions/workflows/main.yml/badge.svg)](https://github.com/melvicgomez/melvicgomez/actions/workflows/main.yml)
 
-## About Me
+### **About ME 🚴🏻** 
 - 👋 Hi, I’m Melvic Gomez based from the Republic of the Philippines 🇵🇭
 - 👀 I’m interested in **software development** 👨‍💻, **cycling** 🚴‍♂️, **books** 📚 and **coffee** ☕. 
 - 🌱 I’m currently learning **FastAPI**, any suggestion after?
 - 💞️ I’m looking to collaborate on building software for companies to grow their business and expand my knowledge.
 - 📫 How to reach me <connect@melvicgomez.com>
  
-### 🧑‍💻 Time spent coding
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C503%20hrs%2050%20mins-blue)
 
