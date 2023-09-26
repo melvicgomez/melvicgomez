@@ -20,12 +20,6 @@
 [![Melvic Gomez's GitHub](https://github-readme-stats.vercel.app/api?username=melvicgomez&count_private=true&show_icons=true&bg_color=202124&title_color=D12A1E&icon_color=FAD127&text_color=ffffff)](https://github.com/melvicgomez)
 <div>
  
-## MyWakaTime Activity
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="WakaTime Activity"
-/>
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
