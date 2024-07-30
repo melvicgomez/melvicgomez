@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C189%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-433.6%20thousand%20lines%20of%20code-blue)
 
@@ -41,11 +41,11 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               23 hrs 27 mins      ███████████████████████░░   91.35 % 
-SCSS                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-C#                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               20 hrs 24 mins      ███████████████████████░░   90.72 % 
+SCSS                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+C#                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +63,7 @@ PHP                      3 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2024 01:05:30 UTC
+ Last Updated on 30/07/2024 01:03:44 UTC
 <!--END_SECTION:waka-->
 
 
