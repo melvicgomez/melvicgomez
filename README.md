@@ -8,7 +8,7 @@
 - 📫 How to reach me <connect@melvicgomez.com>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C373%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C378%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,11 +41,11 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               16 hrs 45 mins      ███████████████████░░░░░░   75.65 % 
-SCSS                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TypeScript               19 hrs 20 mins      █████████████████████░░░░   85.33 % 
+Other                    1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +63,7 @@ PHP                      3 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2024 01:11:41 UTC
+ Last Updated on 10/10/2024 01:11:35 UTC
 <!--END_SECTION:waka-->
 
 
