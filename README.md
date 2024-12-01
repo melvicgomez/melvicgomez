@@ -8,8 +8,6 @@
 - 📫 How to reach me <connect@melvicgomez.com>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C544%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-445.0%20thousand%20lines%20of%20code-blue)
@@ -63,7 +61,7 @@ PHP                      3 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 01:15:40 UTC
+ Last Updated on 01/12/2024 01:36:47 UTC
 <!--END_SECTION:waka-->
 
 
