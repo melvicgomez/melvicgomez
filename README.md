@@ -8,11 +8,44 @@
 - 📫 How to reach me <connect@melvicgomez.com>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C078%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C086%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.1%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+🌆 Daytime                73 commits          █████████████░░░░░░░░░░░░   50.34 % 
+🌃 Evening                38 commits          ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Tuesday                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Friday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+TypeScript               11 hrs 54 mins      ███████████████████████░░   93.04 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -29,7 +62,7 @@ PHP                      3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 01:18:07 UTC
+ Last Updated on 20/09/2025 01:14:44 UTC
 <!--END_SECTION:waka-->
 
 
