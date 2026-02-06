@@ -41,8 +41,7 @@ Sunday                   9 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    2 mins              ██████████████████████░░░   88.33 % 
-TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,7 +59,7 @@ PHP                      3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 01:58:42 UTC
+ Last Updated on 06/02/2026 01:57:49 UTC
 <!--END_SECTION:waka-->
 
 
