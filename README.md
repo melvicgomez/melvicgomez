@@ -8,9 +8,43 @@
 - 📫 How to reach me <connect@melvicgomez.com>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C117%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.08%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+🌆 Daytime                73 commits          █████████████░░░░░░░░░░░░   50.34 % 
+🌃 Evening                38 commits          ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Tuesday                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Friday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Markdown                 3 mins              █████████████████████░░░░   85.49 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -27,7 +61,7 @@ PHP                      3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 02:57:23 UTC
+ Last Updated on 16/05/2026 02:46:42 UTC
 <!--END_SECTION:waka-->
 
 
