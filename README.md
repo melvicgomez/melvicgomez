@@ -8,9 +8,9 @@
 - 📫 How to reach me <connect@melvicgomez.com>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C936%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C942%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -43,34 +43,34 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               12 hrs 32 mins      ████████████████████░░░░░   78.88 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+TypeScript               8 hrs 38 mins       ██████████████████░░░░░░░   72.77 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 34 mins (79.04%)
+⏱ AI Coding Time: 10 hrs 16 mins (86.4%)
 
-✍️ 5,713 lines written by AI, 935 lines written by hand (85.94% AI-written)
+✍️ 4,843 lines written by AI, 422 lines written by hand (91.98% AI-written)
 
-🔤 66,024,973 Input Tokens, 544,660 Output Tokens
+🔤 52,511,088 Input Tokens, 448,803 Output Tokens
 
-💵 $223.00 Estimated AI Cost This Week
+💵 $195.01 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 170 AI Prompts
+🧠 25 AI Sessions, 128 AI Prompts
 
-Sonnet                   6,304 lines         █████████████████████████   100.00 % 
+Sonnet                   5,413 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.94% of written lines came from AI
-📚 Verbose Prompter — average 4,698 characters per prompt
+🤖 AI-Driven — 91.98% of written lines came from AI
+📚 Verbose Prompter — average 6,028 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.56% of changed lines were hand-edited
+🚀 High AI Trust — 12.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +88,7 @@ PHP                      3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 01:39:08 UTC
+ Last Updated on 11/08/2026 01:28:28 UTC
 <!--END_SECTION:waka-->
 
 
