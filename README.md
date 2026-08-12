@@ -12,7 +12,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -43,34 +43,34 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               8 hrs 38 mins       ██████████████████░░░░░░░   72.77 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               4 hrs 53 mins       █████████████████░░░░░░░░   69.04 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 16 mins (86.4%)
+⏱ AI Coding Time: 5 hrs 51 mins (82.68%)
 
-✍️ 4,843 lines written by AI, 422 lines written by hand (91.98% AI-written)
+✍️ 2,931 lines written by AI, 301 lines written by hand (90.69% AI-written)
 
-🔤 52,511,088 Input Tokens, 448,803 Output Tokens
+🔤 12,416,122 Input Tokens, 262,317 Output Tokens
 
-💵 $195.01 Estimated AI Cost This Week
+💵 $46.19 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 128 AI Prompts
+🧠 11 AI Sessions, 67 AI Prompts
 
-Sonnet                   5,413 lines         █████████████████████████   100.00 % 
+Sonnet                   3,357 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.98% of written lines came from AI
-📚 Verbose Prompter — average 6,028 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.76% of changed lines were hand-edited
+🤖 AI-Driven — 90.69% of written lines came from AI
+📚 Verbose Prompter — average 11,059 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 15.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +88,7 @@ PHP                      3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 01:28:28 UTC
+ Last Updated on 12/08/2026 01:46:27 UTC
 <!--END_SECTION:waka-->
 
 
