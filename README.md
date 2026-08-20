@@ -43,29 +43,33 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+PHP                      57 mins             ███████████░░░░░░░░░░░░░░   45.64 % 
+Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Bash                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+INI                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Blade Template           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 1 hr 44 mins (83.52%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 57 lines written by AI, 1 lines written by hand (98.28% AI-written)
 
-🔤 43,542 Input Tokens, 2,562 Output Tokens
+🔤 193,210 Input Tokens, 58,969 Output Tokens
 
-💵 $0.18 Estimated AI Cost This Week
+💵 $4.92 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 21 AI Prompts
 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   105 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 11 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 98.28% of written lines came from AI
+📄 Detailed Prompter — average 621 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +87,7 @@ PHP                      3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 01:06:59 UTC
+ Last Updated on 20/08/2026 01:06:10 UTC
 <!--END_SECTION:waka-->
 
 
