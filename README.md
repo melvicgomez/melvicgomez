@@ -12,7 +12,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -43,33 +43,13 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-PHP                      57 mins             ████████████░░░░░░░░░░░░░   46.47 % 
-Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-INI                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Blade Template           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (83.23%)
-
-✍️ 57 lines written by AI, 1 lines written by hand (98.28% AI-written)
-
-🔤 149,668 Input Tokens, 56,407 Output Tokens
-
-💵 $4.74 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 20 AI Prompts
-
-Sonnet                   105 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.28% of written lines came from AI
-📄 Detailed Prompter — average 652 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.87% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,7 +67,7 @@ PHP                      3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/melvicgomez/melvicgomez/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:10:34 UTC
+ Last Updated on 27/08/2026 07:21:11 UTC
 <!--END_SECTION:waka-->
 
 
